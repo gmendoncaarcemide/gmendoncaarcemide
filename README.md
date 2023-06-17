@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá! Eu sou o Gustavo Mendonça 👋
 
-<!--
-**gmendoncaarcemide/gmendoncaarcemide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Analista de Desenvolvimento de Sistemas apaixonado por resolver problemas e criar soluções inovadoras. Tenho experiência em diversas linguagens de programação e sou especializado em:
 
-Here are some ideas to get you started:
+- ![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=flat-square&logo=delphi&logoColor=white): Desenvolvimento de software comercial.
+- ![PowerBuilder](https://img.shields.io/badge/-PowerBuilder-68ACE5?style=flat-square&logo=powerbuilder&logoColor=white): Desenvolvimento de sistemas.
+- ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white): Banco de dados e consultas.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white): Programação geral e análise de dados.
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white): Análise de dados e estatísticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sempre estou em busca de novos desafios e oportunidades para aplicar meu conhecimento e aprimorar minhas habilidades.
+
+### Projetos Destacados
+
+Aqui estão alguns projetos que destaco:
+
+- [Nome do Projeto](link_para_o_projeto): Breve descrição do projeto.
+- [Nome do Projeto](link_para_o_projeto): Breve descrição do projeto.
+- [Nome do Projeto](link_para_o_projeto): Breve descrição do projeto.
+
+### Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seuperfil)
+- [E-mail](mailto:seuemail@example.com)
+
+Fique à vontade para explorar meus repositórios e entrar em contato comigo para discutir ideias, colaborações ou oportunidades interessantes. Vamos criar algo incrível juntos! 😄
