@@ -1,24 +1,25 @@
-## Olá! Eu sou o Gustavo Mendonça 👋
+## Hello! I'm Gustavo Mendonça 👋
 
-Quem sou eu ?
+Who am I?
 - 💻 Data Scientist Student.
 - 💻 Data Analytics Student.
-- 🎓 Bacharelado em Engenharia Civil - UNIFAFIBE.
+- 🎓 Bachelor's degree in Civil Engineering - UNIFAFIBE.
 - 🎓 MBA in Data Science and Analytics - USP/Esalq.
 
-Sou um Analista de Desenvolvimento de Sistemas Pleno apaixonado por resolver problemas e criar soluções inovadoras. Tenho experiência em diversas linguagens de programação sendo elas:
+I'm a passionate Senior Systems Development Analyst who loves solving problems and creating innovative solutions. I have experience in several programming languages, including:
 
-- ![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=flat-square&logo=delphi&logoColor=white): Desenvolvimento de software comercial.
-- ![PowerBuilder](https://img.shields.io/badge/-PowerBuilder-68ACE5?style=flat-square&logo=powerbuilder&logoColor=white): Desenvolvimento de sistemas.
-- ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white): Banco de dados: Oracle,MySQL,SQL Server,PostgreSQL
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white): Programação geral e análise de dados.
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white): Análise de dados e estatísticas.
+- ![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=flat-square&logo=delphi&logoColor=white): Commercial software development.
+- ![PowerBuilder](https://img.shields.io/badge/-PowerBuilder-68ACE5?style=flat-square&logo=powerbuilder&logoColor=white): Systems development.
+- ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white): Databases: Oracle, MySQL, SQL Server, PostgreSQL.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white): General programming and data analysis.
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white): Data analysis and statistics.
 
-Sempre estou em busca de novos desafios e oportunidades para aplicar meu conhecimento e aprimorar minhas habilidades.
+I'm always seeking new challenges and opportunities to apply my knowledge and enhance my skills.
 
-### Contato
+### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-mendon%C3%A7a-498421135/).
-- [E-mail](gustavomendonca2009@hotmail.com)
+- [E-mail](mailto:gustavomendonca2009@hotmail.com)
 
-Fique à vontade para explorar meus repositórios e entrar em contato comigo para discutir ideias, colaborações ou oportunidades interessantes.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmendoncaarcemide&show_icons=true&theme=radical)
