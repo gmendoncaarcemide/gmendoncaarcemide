@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Gustavo Mendonça 👋
 
 Quem sou eu ?
-💻 Data Scientist Student.
-💻 Data Analytics Student.
-🎓 Bacharelado em Engenharia Civil - UNIFAFIBE.
-🎓 MBA in Data Science and Analytics - USP/Esalq.
+- 💻 Data Scientist Student.
+- 💻 Data Analytics Student.
+- 🎓 Bacharelado em Engenharia Civil - UNIFAFIBE.
+- 🎓 MBA in Data Science and Analytics - USP/Esalq.
 
 Sou um Analista de Desenvolvimento de Sistemas Pleno apaixonado por resolver problemas e criar soluções inovadoras. Tenho experiência em diversas linguagens de programação sendo elas:
 
