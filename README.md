@@ -10,17 +10,9 @@ Sou um Analista de Desenvolvimento de Sistemas apaixonado por resolver problemas
 
 Sempre estou em busca de novos desafios e oportunidades para aplicar meu conhecimento e aprimorar minhas habilidades.
 
-### Projetos Destacados
-
-Aqui estão alguns projetos que destaco:
-
-- [Nome do Projeto](link_para_o_projeto): Breve descrição do projeto.
-- [Nome do Projeto](link_para_o_projeto): Breve descrição do projeto.
-- [Nome do Projeto](link_para_o_projeto): Breve descrição do projeto.
-
 ### Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seuperfil)
-- [E-mail](mailto:seuemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-mendon%C3%A7a-498421135/).
+- [E-mail](gustavomendonca2009@hotmail.com)
 
-Fique à vontade para explorar meus repositórios e entrar em contato comigo para discutir ideias, colaborações ou oportunidades interessantes. Vamos criar algo incrível juntos! 😄
+Fique à vontade para explorar meus repositórios e entrar em contato comigo para discutir ideias, colaborações ou oportunidades interessantes.
