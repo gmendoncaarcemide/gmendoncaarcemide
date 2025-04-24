@@ -8,8 +8,8 @@ I'm a passionate Senior Systems Development Analyst who loves solving problems a
 
 - ![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=flat-square&logo=delphi&logoColor=white): Commercial software development.
 - ![PowerBuilder](https://img.shields.io/badge/-PowerBuilder-68ACE5?style=flat-square&logo=powerbuilder&logoColor=white): Systems development.
-- ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white): Databases: Oracle, MySQL, SQL Server, PostgreSQL.
-- ![C#] Arquitetura de Sistemas .NET com Azure
+- ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white): Databases: Oracle, MySQL, SQL Server, PostgreSQL, SQLAnywhere.
+- [C#] Arquitetura de Sistemas .NET com Azure
 
 I'm always seeking new challenges and opportunities to apply my knowledge and enhance my skills.
 
